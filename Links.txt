@@ -1,0 +1,6 @@
+http://www.yarrninja.com/pixeltutorial/
+https://design.tutsplus.com/articles/create-a-2d-sprite-sheet-for-unity-43-in-inkscape--vector-20104
+http://techartsurvival.blogspot.bg/2013/12/embedding-ironpython-in-unity-tech-art.html
+https://unity3d.com/learn/tutorials/s/scripting
+http://www.gamefromscratch.com/page/Getting-Started.aspx
+https://www.reddit.com/r/gamedev/wiki/faq#wiki_getting_started
