@@ -5,3 +5,4 @@ https://unity3d.com/learn/tutorials/s/scripting
 http://www.gamefromscratch.com/page/Getting-Started.aspx
 https://www.reddit.com/r/gamedev/wiki/faq#wiki_getting_started
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions
+https://lukakosticsite.wordpress.com/2017/04/03/worms-scorched-earth-destructible-pixel-terrain-optimized-af/
