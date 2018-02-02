@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deformable Terrain", "Deformable Terrain\Deformable Terrain.csproj", "{929842B1-AC2C-4380-B521-3FD220E64148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{929842B1-AC2C-4380-B521-3FD220E64148}.Debug|x86.ActiveCfg = Debug|x86
+		{929842B1-AC2C-4380-B521-3FD220E64148}.Debug|x86.Build.0 = Debug|x86
+		{929842B1-AC2C-4380-B521-3FD220E64148}.Release|x86.ActiveCfg = Release|x86
+		{929842B1-AC2C-4380-B521-3FD220E64148}.Release|x86.Build.0 = Release|x86
+		{38D6B241-EA9C-472A-BD53-B2D4C10958A0}.Debug|x86.ActiveCfg = Debug|x86
+		{38D6B241-EA9C-472A-BD53-B2D4C10958A0}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

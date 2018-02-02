@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>deform.png</Source>
+      <Name>deform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MyStuff\Tutorials\Deformable Terrain\Deformable Terrain\bin\x86\Debug\Content\deform.xnb</Output>
+      <Time>2007-12-24T12:01:40.536464+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level.png</Source>
+      <Name>level</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MyStuff\Tutorials\Deformable Terrain\Deformable Terrain\bin\x86\Debug\Content\level.xnb</Output>
+      <Time>2007-12-24T12:01:45.791987+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sky.jpg</Source>
+      <Name>sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MyStuff\Tutorials\Deformable Terrain\Deformable Terrain\bin\x86\Debug\Content\sky.xnb</Output>
+      <Time>2007-12-24T12:28:31.1472455+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <RootDirectory>C:\MyStuff\Tutorials\Deformable Terrain\Deformable Terrain\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\MyStuff\Tutorials\Deformable Terrain\Deformable Terrain\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\MyStuff\Tutorials\Deformable Terrain\Deformable Terrain\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\MyStuff\Tutorials\Deformable Terrain\Deformable Terrain\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2007-11-28T13:08:00+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2007-11-28T13:08:42+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2007-11-28T13:08:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2007-11-28T13:07:44+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\2.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2007-12-13T18:22:41.845077+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

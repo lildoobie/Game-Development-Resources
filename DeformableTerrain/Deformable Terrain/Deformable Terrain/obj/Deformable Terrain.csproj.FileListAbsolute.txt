@@ -1,0 +1,10 @@
+C:\MyStuff\Tutorials\Deformable Terrain\Deformable Terrain\bin\x86\Debug\Deformable Terrain.exe
+C:\MyStuff\Tutorials\Deformable Terrain\Deformable Terrain\bin\x86\Debug\Deformable Terrain.pdb
+C:\MyStuff\Tutorials\Deformable Terrain\Deformable Terrain\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MyStuff\Tutorials\Deformable Terrain\Deformable Terrain\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\MyStuff\Tutorials\Deformable Terrain\Deformable Terrain\obj\x86\Debug\Deformable_Terrain.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\MyStuff\Tutorials\Deformable Terrain\Deformable Terrain\obj\x86\Debug\Deformable Terrain.exe
+C:\MyStuff\Tutorials\Deformable Terrain\Deformable Terrain\obj\x86\Debug\Deformable Terrain.pdb
+C:\MyStuff\Tutorials\Deformable Terrain\Deformable Terrain\bin\x86\Debug\Content\deform.xnb
+C:\MyStuff\Tutorials\Deformable Terrain\Deformable Terrain\bin\x86\Debug\Content\level.xnb
+C:\MyStuff\Tutorials\Deformable Terrain\Deformable Terrain\bin\x86\Debug\Content\sky.xnb
